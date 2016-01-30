@@ -1,5 +1,5 @@
 package com.digitek.primitives;
-
+//This Project can do math operation comment add by Hasmukh 
 public class MathOperations {
 
 	public static void main(String[] args) {
